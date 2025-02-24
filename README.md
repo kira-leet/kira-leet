@@ -4,6 +4,6 @@
 - 💻 Working on 42 Network projects like Libft, Fract-ol, and mastering Linux tools.  
 - 💞️ I’m looking to collaborate on cybersecurity projects, AI-powered tools.
 - ⚡ Fun fact: I enjoy breaking things to understand how they work 🐱‍💻
-![42 Level](https://badge42.vercel.app/api/v2/ahalaoui/stats?cursusId=21&coalitionId=111)
+[![<ahalaoui>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ahalaoui>)](https://github.com/oakoudad/badge42)
 
 
