@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning C and  networking, and ethical hacking at 1337 (42 Network, UM6P)  
 - 💻 Working on 42 Network projects like Libft, Fract-ol, and mastering Linux tools.  
 - 💞️ I’m looking to collaborate on cybersecurity projects, AI-powered tools.
-- ⚡ Fun fact: I enjoy breaking things to understand how they work 🐱‍💻  
+- ⚡ Fun fact: I enjoy breaking things to understand how they work 🐱‍💻
+![42 Level](https://badge42.vercel.app/api/v2/ahalaoui/stats?cursusId=21&coalitionId=111)
+
 
