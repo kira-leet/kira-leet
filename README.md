@@ -6,4 +6,9 @@
 - ⚡ Fun fact: I enjoy breaking things to understand how they work 🐱‍💻
 [![ahalaoui's 42 stats](https://badge.mediaplus.ma/darkblue/ahalaoui)](https://github.com/oakoudad/badge42)
 
+📬 Contact Me
+🔗 LinkedIn: https://www.linkedin.com/in/ahmed-alaoui-b70b5730b/
+🐦 X (Twitter): Your X Profile
+🎮 Discord: YourDiscordUsername#0000
+
 
