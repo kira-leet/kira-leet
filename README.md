@@ -1,5 +1,4 @@
 ### 👋 Hi, I’m **@kira-leet**  
-### 👋 Hi, I’m **@kira-leet**  
 💡 **Interests:** Cybersecurity, AI, and Low-Level Programming  
 📚 **Currently Learning:** C, Networking, and Ethical Hacking at **1337 (42 Network, UM6P)**  
 💻 **Projects:** Working on **Libft, Fract-ol,** and mastering **Linux tools**  
