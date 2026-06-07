@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed Alaoui (@kira-leet)
+# 👋 Hi, I'm Ahmed Alaoui
 ### 🚀 Software Engineer
 
 A performance-driven **Software Engineer** specializing in **C/C++, System Architecture, and DevOps Infrastructure**. Backed by a rigorous peer-to-peer engineering background at **1337 (42 Network)**, I build high-performance, scalable code, with a deep understanding of operating systems, low-level network protocols, and multi-container virtualization.
