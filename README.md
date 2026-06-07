@@ -15,9 +15,7 @@ A performance-driven **Software Engineer** specializing in **C/C++, System Archi
 ### 🏆 Leadership & Competitive Programming
 *   **Board Member @ Competitive Programming Club (1337 School):** Strategically organize high-profile coding contests and steer preparation initiatives, consistently driving the club to top-tier nationwide rankings.
 
----
 
-### 📊 42 Network Stats & Achievements
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
