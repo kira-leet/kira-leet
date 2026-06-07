@@ -12,21 +12,6 @@ A performance-driven **Software Engineer** specializing in **C/C++, System Archi
 *   **Networking:** TCP/IP, Socket Programming, Network Protocols, Subnetting & Routing
 *   **Core CS:** Algorithms, Data Structures, Concurrency (pthreads, mutexes), System Calls
 
----
-
-### 🛠️ Featured Engineering Projects
-
-#### 🌐 Networking & Systems
-*   **[ft_irc](https://github.com/kira-leet/ft_irc)** - Architected and implemented a fully functional **IRC Server** from scratch in C++98. Utilized non-blocking I/O and multiplexing via `poll()` to handle multiple concurrent client connections securely.
-*   **[Minishell](https://github.com/kira-leet/Minishell)** - Engineered a mini-Bash command-line interpreter in C. Features an abstract syntax tree parser, `fork/execve` process management, signal handling, and I/O redirection using file descriptors.
-*   **[Philosophers](https://github.com/kira-leet/Philosophers)** - A multi-threaded simulation of the Dining Philosophers problem in C to master concurrency, utilizing POSIX threads (`pthreads`), mutex locks, and data race prevention to eliminate deadlocks.
-
-#### 🐳 DevOps & Infrastructure
-*   **[Inception](https://github.com/kira-leet/Inception)** - Designed a multi-container microservices infrastructure using Docker Compose. Developed custom, lightweight, secure Dockerfiles (Alpine/Debian) to run Nginx (TLS 1.2/1.3), WordPress, and MariaDB with persistent volumes.
-*   **[Born2beRoot](https://github.com/kira-leet/Born2beRoot)** - Set up a secure Debian Linux server inside a VM featuring LVM disk partitioning, SSH key authentication, strict UFW firewall configurations, and automated sudo monitoring scripts.
-
----
-
 ### 🏆 Leadership & Competitive Programming
 *   **Board Member @ Competitive Programming Club (1337 School):** Strategically organize high-profile coding contests and steer preparation initiatives, consistently driving the club to top-tier nationwide rankings.
 
