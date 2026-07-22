@@ -7,7 +7,7 @@ A performance-driven **Software Engineer** specializing in **C/C++, System Archi
 
 ### 🧰 Tech Stack & Expertise
 
-*   **Languages:** C, C++, Java, SQL
+*   **Languages:** C, C++
 *   **Systems & DevOps:** Linux (Debian, Alpine), Bash, Docker, Docker Compose, Virtualization
 *   **Networking:** TCP/IP, Socket Programming, Network Protocols, Subnetting & Routing
 *   **Core CS:** Algorithms, Data Structures, Concurrency (pthreads, mutexes), System Calls
